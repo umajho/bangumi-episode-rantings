@@ -8,7 +8,7 @@ See: https://bangumi.tv/group/topic/404306
 
 ## `/app`
 
-[![Codecov](https://img.shields.io/codecov/c/github/umajho/bangumi-episode-ratings)](https://app.codecov.io/github/umajho/bangumi-episode-ratings)（Deno
+[![Codecov](https://img.shields.io/codecov/c/github/umajho/bangumi-eprt)](https://app.codecov.io/github/umajho/bangumi-eprt)（Deno
 统计测试覆盖时漏掉了没有被 `.test.ts` 触及过的文件，所以实际上还要低不少。）
 
 后端。
